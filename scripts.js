@@ -41,7 +41,7 @@ select1.addEventListener('input', function (event) {
         let value = event.target.value;
 
 
-        if (value === 'creekside' || "ovix") {
+        if (value === 'creekside' || value === "ovix") {
             showSendButton();
         } else {
             updateField_3(value);
