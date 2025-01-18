@@ -110,7 +110,7 @@ function updateField_2(value) {
                 class="rounded-md h-10 bg-transparent border-2 mb-4 px-5 text-white">
                 <option hidden selected value="nonListed">Selecione um mod</option>
                 <option value="creekside" class="bg-gray-900">Creekside</option>
-                <option value="ovix " class="bg-gray-900">Stand Basic</option>
+                <option value="ovix" class="bg-gray-900">Stand Basic</option>
             </select>
         `;
 
